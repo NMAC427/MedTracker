@@ -1,0 +1,14 @@
+# MacOS
+
+.DS_Store
+.VolumeIcon.icns
+Icon?
+
+# Xcode
+xcuserdata/
+
+.swiftpm
+.build/
+Packages/
+Package.pins
+Package.resolved
